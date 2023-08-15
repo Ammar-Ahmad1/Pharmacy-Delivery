@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ammar-Ahmad1/Pharmacy-Delivery.git/static/css/main.a7e77ab3.css",
+    "main.js": "/Ammar-Ahmad1/Pharmacy-Delivery.git/static/js/main.116d391b.js",
+    "static/js/787.0c3f432a.chunk.js": "/Ammar-Ahmad1/Pharmacy-Delivery.git/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Ammar-Ahmad1/Pharmacy-Delivery.git/index.html",
+    "main.a7e77ab3.css.map": "/Ammar-Ahmad1/Pharmacy-Delivery.git/static/css/main.a7e77ab3.css.map",
+    "main.116d391b.js.map": "/Ammar-Ahmad1/Pharmacy-Delivery.git/static/js/main.116d391b.js.map",
+    "787.0c3f432a.chunk.js.map": "/Ammar-Ahmad1/Pharmacy-Delivery.git/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7e77ab3.css",
+    "static/js/main.116d391b.js"
+  ]
+}
